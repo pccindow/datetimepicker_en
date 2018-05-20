@@ -1,7 +1,9 @@
 //= require jquery
 //= require jquery-ui
+//= require jquery_ujs
 //= require rails-ujs
 //= require moment
+//= require moment/fr.js
 //= require activestorage
 //= require turbolinks
 //= require bootstrap-datetimepicker
